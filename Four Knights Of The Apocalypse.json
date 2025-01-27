@@ -4,5 +4,14 @@
   "artist": "Nakaba Suzuki",
   "author": "Nakaba Suzuki",
   "cover": "https://i.imgur.com/7eZideN.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Four Knights Of The Apocalypse Chapter 1",
+      "volume": "1",
+      "last_updated": "1737936395",
+      "groups": {
+        "": "https://mangadex.org/chapter/1186906/1"
+      }
+    }
+  }
 }
